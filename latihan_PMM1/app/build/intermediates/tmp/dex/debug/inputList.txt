@@ -1,0 +1,2 @@
+C:\Users\Kukuh\AndroidStudioProjects\latihan_PMM1\app\build\intermediates\classes\debug
+C:\Users\Kukuh\AndroidStudioProjects\latihan_PMM1\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-e9f9827edc64f91a3072be9fac7aefdd92407676.jar
